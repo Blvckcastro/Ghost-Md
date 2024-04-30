@@ -71,4 +71,4 @@ Enjoy the diverse features of the *Ghost-MD*  to enhance your conversations and 
 
 ## Credits to: ##
 - [**France King**](https://github.com/franceking1) for base bot.
-- [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help and Session Generation and code encryption
+- [***Gifted Tech***](https://github.com/mouricedevs) For Genaral Help,Session Generation and code encryption
