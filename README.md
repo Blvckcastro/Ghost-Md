@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/Blvckcastro/Ghost-Md">
-    <img alt="Ghost-MD" height="250" src="https://telegra.ph/file/1e840b204637187e03046.jpg">
+    <img alt="Ghost-MD" height="250" src="https://telegra.ph/file/fa95f40cb4ff5d8914867.jpg">
   </a>
 </p>
 
