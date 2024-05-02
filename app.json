@@ -2,7 +2,7 @@
   "name":"GHOST-MD",
   "description":"A Simple and Faster WhatsApp bot Md developed by Blvck Castro",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://telegra.ph/file/1e840b204637187e03046.jpg",
+  "logo":"https://telegra.ph/file/cd8cb316f3df8671b2125.jpg",
   "repository":"https://github.com/Blvckcastro/Ghost-Md",
   "succes_url":"/",
   "stack":"container",
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/1e840b204637187e03046.jpg",
+      "value":"https://telegra.ph/file/cd8cb316f3df8671b2125.jpg",
       "required":false
        
      },
