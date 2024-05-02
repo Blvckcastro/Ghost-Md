@@ -36,7 +36,7 @@ DEPLOY ON HEROKU
      Or
  
 
-2. [`PAIRING CODE`](https://ghost-md-session.onrender.com/pair) Then `Go-to Whatapp>Three dots>Linked Devices`
+2. [`PAIRING CODE`](https://ghost-md-session.onrender.com/) Then `Go-to Whatapp>Three dots>Linked Devices`
    - You will get a session ID in WhatsApp, copy the ID only & link your WhatsApp.
    - **If you don't have an account on [Heroku](https://signup.heroku.com/), [create an account now](https://signup.heroku.com/).**
    - ***Now [DEPLOY](https://dashboard.heroku.com/new?template=https://github.com/Blvckcastro/Ghost-Md).***
