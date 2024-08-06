@@ -17,7 +17,7 @@
    
 #
 <p align="center"
-  <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Blvck Castro-red.svg?style=for-the-badge&logo=github">https://github.com/Blvckcastro/Black-OPP-Md</a>
+  <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Blvck Castro-red.svg?style=for-the-badge&logo
 </p>
 
 
